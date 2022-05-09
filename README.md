@@ -1,0 +1,2 @@
+# sq
+sneller query
